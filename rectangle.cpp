@@ -2,7 +2,7 @@
 #include <cmath>
 double perimetr(double height, double width)
 {
-    return 2*(height+width); 
+    return 2*(height+width); //комментарий 
 }
 double ploshad(double height, double width)
 {
