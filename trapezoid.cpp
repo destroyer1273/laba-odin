@@ -37,10 +37,9 @@ int main() {
 			<< "\n perimeter: " << perimeter
 			<< "\n area: " << area
 			<< "\n middle line: " << midLine
-			//<< "\ndebug for area: " << abPwrd << " " << cPwrd << " " << dPwrd << " " << exp1 << " " << exp1Pwrd << " " << exp2 << " " << exp2Sqrd
 			<< "\n\none more? (y/any): ";
 		cin >> ans;
-	} while(ans=='y');
+	} while(ans=='y'); //fin
 	cout << "\nviva la UTEN\n";	//Universidad Técnica Estatal de Novosibirsk
 	return 0;
 }
