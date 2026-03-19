@@ -3,7 +3,7 @@
 #include <limits>
 using namespace std;
 
-//Очистка буфера ввода
+//Очистка буфера ввода новый текст
 void clearInput() {
     cin.clear();
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
