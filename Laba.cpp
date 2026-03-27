@@ -8,7 +8,7 @@ void clearInput() {
     cin.clear();
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
-// проверка
+// проверка еще раз  проверка
 //Ввод положительного числа
 double Polozitelnoe_chislo(string text) {
     double num;
