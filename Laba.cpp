@@ -1,4 +1,4 @@
-#include <iostream>
+\#include <iostream>
 #include <cmath>
 #include <limits>
 using namespace std;
@@ -8,7 +8,7 @@ void clearInput() {
     cin.clear();
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
-
+// проверка
 //Ввод положительного числа
 double Polozitelnoe_chislo(string text) {
     double num;
